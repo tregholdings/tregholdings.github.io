@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tregholdings.com/sitemap.xml
